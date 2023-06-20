@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zeying Zhu"
   avatar           : "headshot_Zeying.jpeg"
-  bio              : "CE PhD Candidate at Boston University"
-  location         : "Boston"
+  bio              : "CE PhD Candidate"
+  location         : "Boston University"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=PjBKdNQAAAAJ&hl=en"
-  email            :
+  email            : zeyingz@bu.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
