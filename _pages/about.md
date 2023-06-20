@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Zeying Zhu's home on the web!
+This is Zeying Zhu's home on the web! (Under construction)
 
 Research
 ======
