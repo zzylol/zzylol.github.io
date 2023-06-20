@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Zeying Zhu"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "headshot_Zeying.jpeg"
+  bio              : "CE PhD Candidate at Boston University"
+  location         : "Boston"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=PjBKdNQAAAAJ&hl=en"
