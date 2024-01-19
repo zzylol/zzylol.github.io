@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-This is Zeying Zhu's home on the web! (Under construction)
+I am a PhD student working with Prof. Alan (Zaoxing) Liu at [University of Maryland, College Park](https://umd.edu/). I'm broadly interested in systems and networking. 
 
-Research
+
+I received my BEng. for Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2021. 
+
+
+
+Feel free to drop me an email if you are interested in my research.
+
+Publications
 ======
 
-Experience
-======
-
-Teaching
-======
 
