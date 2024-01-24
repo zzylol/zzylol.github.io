@@ -39,8 +39,8 @@ Teaching Assistant, EC528 Cloud Computing, Boston University, [Fall 2022](https:
 Awards
 ======
 <div style="text-align:left;">Hariri Institute’s Graduate Student Fellowship, Boston University<div style="float:right;">2023</div></div>
-Distinguished Computer Engineering Fellowship, Boston University<p align="right">2021</p>
-Stars of Tomorrow Internship Award, Microsoft Research Asia<p align="right">2021</p>
-National Scholarship, Ministry of Education, China<p align="right">2018, 2019, 2020</p>
+<div style="text-align:left;">Distinguished Computer Engineering Fellowship, Boston University<div style="float:right;">2021</div></div>
+<div style="text-align:left;">Stars of Tomorrow Internship Award, Microsoft Research Asia<div style="float:right;">2021</div></div>
+<div style="text-align:left;">National Scholarship, Ministry of Education, China<div style="float:right;">2018, 2019, 2020</div></div>
 
 
