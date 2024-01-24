@@ -33,7 +33,7 @@ Experience
 
 Teaching
 ======
-Teaching Assistant, EC527 High Performance Programming with Multicore and GPUs, Boston University, Spring 2023
+Teaching Assistant, EC527 High Performance Programming with Multicore and GPUs, Boston University, Spring 2023  
 Teaching Assistant, EC528 Cloud Computing, Boston University, [Fall 2022](https://zaoxing.github.io/teaching/2022-fall-cloud)
 
 Awards
