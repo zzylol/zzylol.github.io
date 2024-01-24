@@ -1,4 +1,3 @@
-![image](https://github.com/zzylol/zzylol.github.io/assets/50204836/b752b4b4-65ba-4cf4-b2d8-d03628b2ce2e)![image](https://github.com/zzylol/zzylol.github.io/assets/50204836/312d8168-da6a-4126-abc5-616df7da86a5)---
 permalink: /
 title: "About me"
 excerpt: "About me"
