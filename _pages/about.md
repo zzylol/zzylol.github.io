@@ -1,4 +1,4 @@
----
+![image](https://github.com/zzylol/zzylol.github.io/assets/50204836/b752b4b4-65ba-4cf4-b2d8-d03628b2ce2e)![image](https://github.com/zzylol/zzylol.github.io/assets/50204836/312d8168-da6a-4126-abc5-616df7da86a5)---
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -8,20 +8,39 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student working with Prof. Alan (Zaoxing) Liu at [University of Maryland, College Park](https://umd.edu/). I'm broadly interested in systems and networking. 
+I am a third-year PhD student advised by [Prof. Alan (Zaoxing) Liu](https://zaoxing.github.io/) at [University of Maryland, College Park](https://umd.edu/). I'm broadly interested in systems and networking. Currently, I'm working on approximate computing systems aiming to improve query performance and system scalability. 
 
-
-I received my BEng. for Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2021. 
-
-
+I received my B.E. for Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2021. 
 
 Feel free to drop me an email if you are interested in my research.
 
 Publications
 ======
+**[FAST'24]** In-Memory Key-Value Store Live Migration with NetMigrate  
+<u>Zeying Zhu</u>, Yibo Zhao, Zaoxing Liu  
+to appear in USENIX FAST’24  
+[Code](https://github.com/Froot-NetSys/NetMigrate)
+
+**[NSDI'23]** Arya: Arbitrary Graph Pattern Mining with Decomposition-based Sampling  
+<u>Zeying Zhu</u>^*^, Kan Wu^*^, Zaoxing Liu  
+[Paper](https://www.usenix.org/conference/nsdi23/presentation/zhu) [Code](https://github.com/Froot-NetSys/Arya) [Slides](https://www.usenix.org/system/files/nsdi23_slides_zhu.pdf) [Talk](https://www.youtube.com/watch?v=NlXLuhnJZ9w)
 
 Experience
 ======
 
+
+Teaching
+======
+Teaching Assistant, EC527 High Performance Programming with Multicore and GPUs, Boston University, Spring 2023
+Teaching Assistant, EC528 Cloud Computing, Boston University, [Fall 2022](https://zaoxing.github.io/teaching/2022-fall-cloud)
+
 Awards
 ======
+<div style="text-align:left;">Hariri Institute’s Graduate Student Fellowship, Boston University<div style="float:right;">2023</div></div>
+Distinguished Computer Engineering Fellowship, Boston University<p align="right">2021</p>
+Stars of Tomorrow Internship Award, Microsoft Research Asia<p align="right">2021</p>
+National Scholarship, Ministry of Education, China<p align="right">2018, 2019, 2020</p>
+
+
+
+
