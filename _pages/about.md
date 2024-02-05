@@ -27,7 +27,7 @@ to appear in USENIX FAST’24
 
 **[NSDI'23]** Arya: Arbitrary Graph Pattern Mining with Decomposition-based Sampling  
 <u>Zeying Zhu</u>* , Kan Wu* , Zaoxing Liu    
-[Paper](../files/nsdi23-zhu.pdf)   <a href="https://github.com/Froot-NetSys/Arya" style="color: MediumSeaGreen; text-decoration: none;text-decoration-style: solid;">Code</a>   [Slides](https://www.usenix.org/system/files/nsdi23_slides_zhu.pdf) [Talk](https://www.youtube.com/watch?v=NlXLuhnJZ9w)
+[Paper](../files/nsdi23-zhu.pdf)   <a href="https://github.com/Froot-NetSys/Arya" style="color: MediumSeaGreen; text-decoration: none;text-decoration-style: solid;">Code</a>    <a href="https://www.usenix.org/system/files/nsdi23_slides_zhu.pdf" style="color: DodgerBlue; text-decoration: none;text-decoration-style: solid;">Slides</a>   <a href="https://www.youtube.com/watch?v=NlXLuhnJZ9w" style="color: DodgerBlue; text-decoration: none;text-decoration-style: solid;">Talk</a>
 
 
 
