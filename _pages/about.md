@@ -21,7 +21,9 @@ Publications
 **[FAST'24]** In-Memory Key-Value Store Live Migration with NetMigrate  
 <u>Zeying Zhu</u>, Yibo Zhao, Zaoxing Liu  
 to appear in USENIX FAST’24    
-[Paper](../files/NetMigrate_FAST.pdf) [Code](https://github.com/Froot-NetSys/NetMigrate)
+[Paper](../files/NetMigrate_FAST.pdf) [Code](https://github.com/Froot-NetSys/NetMigrate)  
+
+<a href="https://github.com/Froot-NetSys/NetMigrate" style="color: green; text-decoration: none;text-decoration-line: none;">Code</a>
 
 **[NSDI'23]** Arya: Arbitrary Graph Pattern Mining with Decomposition-based Sampling  
 <u>Zeying Zhu</u>* , Kan Wu* , Zaoxing Liu    
