@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student advised by [Prof. Alan (Zaoxing) Liu](https://zaoxing.github.io/) at [University of Maryland, College Park](https://umd.edu/). I'm broadly interested in systems and networking. Currently, I'm working on approximate computing systems aiming to improve query performance and system scalability. 
+I am a third-year PhD student advised by [Prof. Alan (Zaoxing) Liu](https://zaoxing.github.io/) at [University of Maryland, College Park](https://umd.edu/). My research interests are broadly in systems and networking. Currently, I'm working on approximate computing systems aiming to improve query performance and system scalability. 
 
 I received my B.E. for Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2021. 
 
