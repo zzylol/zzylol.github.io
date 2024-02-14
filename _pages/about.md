@@ -47,7 +47,7 @@ Sep. 2020 - May 2021
 Teaching
 ======
 Teaching Assistant, EC527 High Performance Programming with Multicore and GPUs  
-Boston University, Spring 2023  
+Boston University, [Spring 2023](https://people.bu.edu/herbordt/teaching.htm)  
 
 Teaching Assistant, EC528 Cloud Computing  
 Boston University, [Fall 2022](https://zaoxing.github.io/teaching/2022-fall-cloud)
