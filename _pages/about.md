@@ -12,7 +12,7 @@ I am a third-year PhD student advised by [Prof. Alan (Zaoxing) Liu](https://zaox
 
 I received my B.E. for Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2021. 
 
-<p style="display:inline">&#x1F60A; Feel free to drop me an email if you are interested in my research.</p> 
+<p>&#x1F60A; Feel free to drop me an email if you are interested in my research.</p> 
 
 
 
