@@ -22,13 +22,12 @@ Publications
 <u>Zeying Zhu</u>, Yibo Zhao, Zaoxing Liu  
 to appear in USENIX FAST’24    
 <em><font color="green">[Artifacts Available]</font> <font color="red">[Artifacts Functional]</font> <font color="blue">[Artifacts Reusable]</font></em>  
-[<a href="https://zzylol.github.io/files/NetMigrate_FAST.pdf" style="color: Violet; text-decoration: underline;text-decoration-style: solid;">Paper</a>]   [<a href="https://github.com/Froot-NetSys/NetMigrate" style="color: MediumSeaGreen; text-decoration: underline;text-decoration-style: solid;">Code</a>]  
-
+[[Paper](https://zzylol.github.io/files/NetMigrate_FAST.pdf)] [[Code](https://github.com/Froot-NetSys/NetMigrate)]  
 
 
 **[NSDI'23]** Arya: Arbitrary Graph Pattern Mining with Decomposition-based Sampling  
 <u>Zeying Zhu</u>* , Kan Wu* , Zaoxing Liu    
-[<a href="https://zzylol.github.io/files/nsdi23-zhu.pdf" style="color: Violet; text-decoration: underline;text-decoration-style: solid;">Paper</a>]   [<a href="https://github.com/Froot-NetSys/Arya" style="color: MediumSeaGreen; text-decoration: underline;text-decoration-style: solid;">Code</a>]    [<a href="https://www.usenix.org/system/files/nsdi23_slides_zhu.pdf" style="color: DodgerBlue; text-decoration: underline;text-decoration-style: solid;">Slides</a>]   [<a href="https://www.youtube.com/watch?v=NlXLuhnJZ9w" style="color: SlateBlue; text-decoration: underline;text-decoration-style: solid;">Talk</a>]
+[[Paper](https://zzylol.github.io/files/nsdi23-zhu.pdf)] [[Code](https://github.com/Froot-NetSys/Arya)] [[Slides](https://www.usenix.org/system/files/nsdi23_slides_zhu.pdf)] [[Talk](https://www.youtube.com/watch?v=NlXLuhnJZ9w)]  
 
 
 
