@@ -60,4 +60,7 @@ Awards
 <div style="text-align:left;">National Scholarship, Ministry of Education, China<div style="float:right;">2018, 2019, 2020</div></div>
 
 &nbsp;  
-[Significant other](https://tyxiong23.github.io/)
+<p style="text-align:right;"><a href="https://tyxiong23.github.io/">Significant other</a></p>
+
+
+
