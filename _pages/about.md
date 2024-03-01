@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student advised by [Prof. Alan (Zaoxing) Liu](https://zaoxing.github.io/) at [University of Maryland, College Park](https://umd.edu/). My research interests are broadly in systems and networking. Currently, I'm working on approximate computing systems aiming to improve query performance and system scalability. 
-
-I received my B.E. for Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2021. 
+I am a third-year PhD student advised by [Prof. Alan (Zaoxing) Liu](https://zaoxing.github.io/) at [University of Maryland, College Park](https://umd.edu/). I received my B.E. for Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2021. My research interests are broadly in systems and networking. In particular, I attempt to bridge the gap between approxiamte algorithms (e.g., sketches) and practical computing systems (e.g., graph systems, key-value store migration systems), aiming to improve query performance and system scalability. Currently, I'm working on network performance monitoring and monitoring systems. 
 
 <p>&#x1F60A; Feel free to drop me an email if you are interested in my research.</p> 
 
@@ -22,7 +20,7 @@ Publications
 <u>Zeying Zhu</u>, Yibo Zhao, Zaoxing Liu  
 to appear in USENIX FAST’24    
 <em><font color="green">[Artifacts Available]</font> <font color="red">[Artifacts Functional]</font> <font color="blue">[Artifacts Reusable]</font></em>  
-[[Paper](https://zzylol.github.io/files/NetMigrate_FAST.pdf)] [[Code](https://github.com/Froot-NetSys/NetMigrate)]  
+[[Paper](https://www.usenix.org/system/files/fast24-zhu.pdf)] [[Code](https://github.com/Froot-NetSys/NetMigrate)] [[Slides]()] [[Talk]()]
 
 
 **[NSDI'23]** Arya: Arbitrary Graph Pattern Mining with Decomposition-based Sampling  
