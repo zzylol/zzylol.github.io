@@ -10,7 +10,7 @@ redirect_from:
 
 I am a third-year PhD student advised by [Prof. Alan (Zaoxing) Liu](https://zaoxing.github.io/) at [University of Maryland, College Park](https://umd.edu/). I received my B.E. for Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2021. My research interests are broadly in systems and networking. In particular, I attempt to bridge the gap between approxiamte algorithms (e.g., sketches) and practical computing systems (e.g., graph systems, key-value store migration systems), aiming to improve query performance and system scalability. Currently, I'm working on network performance monitoring and monitoring systems. 
 
-<p>&#x1F60A; Feel free to drop me an email if you are interested in my research.</p> 
+<p>&#x1F60A; Feel free to drop me an email (zeyingz@umd.edu) if you are interested in my research.</p> 
 
 
 
