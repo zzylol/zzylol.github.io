@@ -20,7 +20,7 @@ Publications
 <u>Zeying Zhu</u>, Yibo Zhao, Zaoxing Liu  
 to appear in USENIX FAST’24    
 <em><font color="green">[Artifacts Available]</font> <font color="red">[Artifacts Functional]</font> <font color="blue">[Artifacts Reusable]</font></em>  
-[[Paper](https://www.usenix.org/system/files/fast24-zhu.pdf)] [[Code](https://github.com/Froot-NetSys/NetMigrate)] [[Slides]()] [[Talk]()]
+[[Paper](https://www.usenix.org/system/files/fast24-zhu.pdf)] [[Code](https://github.com/Froot-NetSys/NetMigrate)] [[Slides](https://zzylol.github.io/files/NetMigrate_final.pptx)] [[Talk]()]
 
 
 **[NSDI'23]** Arya: Arbitrary Graph Pattern Mining with Decomposition-based Sampling  
