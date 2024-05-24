@@ -52,7 +52,7 @@ Boston University, [Fall 2022](https://zaoxing.github.io/teaching/2022-fall-clou
 Service
 ======
 INFOCOM'2023 External reviewer  
-Artifact Evaluation Committee: CCS'24, OSDI'24, ATC'24
+Artifact Evaluation Committee: CCS'24, OSDI'24, ATC'24, CoNEXT'24  
 
 Awards
 ======
