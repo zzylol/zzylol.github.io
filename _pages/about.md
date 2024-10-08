@@ -16,7 +16,7 @@ I am a PhD student advised by [Prof. Alan (Zaoxing) Liu](https://zaoxing.github.
 
 Publications
 ======
-**[FAST'24]** In-Memory Key-Value Store Live Migration with NetMigrate  
+**[FAST'24, P4 Workshop 2024]** In-Memory Key-Value Store Live Migration with NetMigrate  
 <u>Zeying Zhu</u>, Yibo Zhao, Zaoxing Liu  
 <em><font color="green">[Artifacts Available]</font> <font color="red">[Artifacts Functional]</font> <font color="blue">[Artifacts Reusable]</font></em>  
 [[Paper](https://www.usenix.org/system/files/fast24-zhu.pdf)] [[Code](https://github.com/Froot-NetSys/NetMigrate)] [[Slides](https://zzylol.github.io/files/NetMigrate_slides_zhu.pptx)] [[Talk](https://youtu.be/l1fZykAGdM0)]
