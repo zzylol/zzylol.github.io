@@ -10,8 +10,6 @@ redirect_from:
 
 I am a PhD student advised by [Prof. Alan (Zaoxing) Liu](https://zaoxing.github.io/) at [University of Maryland, College Park](https://umd.edu/). I received my B.E. for Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2021. My research interests are broadly in systems and networking. In particular, I attempt to bridge the gap between approxiamte algorithms (e.g., sampling, sketches) and practical computing systems (e.g., graph systems, key-value store migration systems), aiming to improve query performance and system scalability. Currently, I'm working on performance monitoring systems. 
 
-<font color="red">I am looking for internship opportunities for Summer 2025.</font> Please feel free to contact me if you think I could be a good fit.
-
 
 
 Publications
