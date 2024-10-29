@@ -52,5 +52,11 @@ Service
 INFOCOM'2023 reviewer  
 Artifact Evaluation Committee: CCS'24, OSDI'24, ATC'24, CoNEXT'24, SIGCOMM'24  
 
+Awards
+======
+<div style="text-align:left;">Hariri Institute’s Graduate Student Fellowship, Boston University<div style="float:right;">2023</div></div>
+<div style="text-align:left;">Distinguished Computer Engineering Fellowship, Boston University<div style="float:right;">2021</div></div>
+<div style="text-align:left;">Stars of Tomorrow Internship Award, Microsoft Research Asia<div style="float:right;">2021</div></div>
+<div style="text-align:left;">National Scholarship, Ministry of Education, China<div style="float:right;">2018, 2019, 2020</div></div>
 
 
