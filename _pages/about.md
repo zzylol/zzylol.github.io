@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student advised by [Prof. Alan (Zaoxing) Liu](https://zaoxing.github.io/) at [University of Maryland, College Park](https://umd.edu/). I received my B.E. for Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2021. My research interests are broadly in systems and networking. In particular, I attempt to bridge the gap between approximate algorithms (e.g., sampling, sketches) and practical computing systems (e.g., graph systems, key-value store migration systems), aiming to improve query performance and system scalability. Currently, I'm working on scalable performance monitoring systems and verifiable network performance measurement. 
+I am a PhD student advised by [Prof. Alan (Zaoxing) Liu](https://zaoxing.github.io/) at [University of Maryland, College Park](https://umd.edu/). I received my B.E. for Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2021. My research interests are broadly in systems and networking. In particular, I attempt to bridge the gap between approximate algorithms (e.g., sampling, sketches) and practical computing systems (e.g., graph systems, key-value store migration systems), aiming to improve query performance and system scalability. 
 
 
 
@@ -47,16 +47,5 @@ Boston University, [Spring 2023](https://people.bu.edu/herbordt/teaching.htm)
 Teaching Assistant, EC528 Cloud Computing  
 Boston University, [Fall 2022](https://zaoxing.github.io/teaching/2022-fall-cloud)
 
-Service
-======
-INFOCOM'2023 reviewer  
-Artifact Evaluation Committee: CCS'24, OSDI'24, ATC'24, CoNEXT'24, SIGCOMM'24  
-
-Awards
-======
-<div style="text-align:left;">Hariri Institute’s Graduate Student Fellowship, Boston University<div style="float:right;">2023</div></div>
-<div style="text-align:left;">Distinguished Computer Engineering Fellowship, Boston University<div style="float:right;">2021</div></div>
-<div style="text-align:left;">Stars of Tomorrow Internship Award, Microsoft Research Asia<div style="float:right;">2021</div></div>
-<div style="text-align:left;">National Scholarship, Ministry of Education, China<div style="float:right;">2018, 2019, 2020</div></div>
 
 
