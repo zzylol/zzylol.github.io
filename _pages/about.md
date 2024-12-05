@@ -17,7 +17,7 @@ Publications
 **[FAST'24, P4 Workshop 2024]** In-Memory Key-Value Store Live Migration with NetMigrate  
 <u>Zeying Zhu</u>, Yibo Zhao, Zaoxing Liu  
 <em><font color="green">[Artifacts Available]</font> <font color="red">[Artifacts Functional]</font> <font color="blue">[Artifacts Reusable]</font></em>  
-[[Paper](https://www.usenix.org/system/files/fast24-zhu.pdf)] [[Code](https://github.com/Froot-NetSys/NetMigrate)] [[Slides](https://zzylol.github.io/files/NetMigrate_slides_zhu.pptx)] [[Talk](https://youtu.be/l1fZykAGdM0)]
+[[Paper](https://www.usenix.org/system/files/fast24-zhu.pdf)] [[Code](https://github.com/Froot-NetSys/NetMigrate)] [[Slides](https://zzylol.github.io/files/NetMigrate_slides_zhu.pptx)] [[FAST'24 Talk](https://youtu.be/l1fZykAGdM0)] [[P4 Workshop Talk](https://www.youtube.com/watch?v=fNCHO472CTI)]
 
 
 **[NSDI'23]** Arya: Arbitrary Graph Pattern Mining with Decomposition-based Sampling  
@@ -46,6 +46,4 @@ Boston University, [Spring 2023](https://people.bu.edu/herbordt/teaching.htm)
 
 Teaching Assistant, EC528 Cloud Computing  
 Boston University, [Fall 2022](https://zaoxing.github.io/teaching/2022-fall-cloud)
-
-
 
