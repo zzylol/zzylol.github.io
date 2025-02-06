@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student advised by [Prof. Alan (Zaoxing) Liu](https://zaoxing.github.io/) at [University of Maryland, College Park](https://umd.edu/). I received my B.E. for Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2021. My research interests are broadly in systems and networking. In particular, I attempt to bridge the gap between approximate algorithms (e.g., sampling, sketches) and practical computing systems (e.g., graph systems, key-value store migration systems), aiming to improve query performance and system scalability. Currently, I'm working on scalable performance monitoring systems and verifiable network performance measurement system. 
-
-<font color="orange">I am looking for research internship opportunities for Summer 2025. Please feel free to contact me if you think I could be a good fit.</font> 
+I am a fourth-year PhD student advised by [Prof. Alan (Zaoxing) Liu](https://zaoxing.github.io/) at [University of Maryland, College Park](https://umd.edu/). I received my B.E. for Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2021. My research interests are broadly in systems and networking. In particular, I attempt to bridge the gap between approximate algorithms (e.g., sampling, sketches) and practical computing systems (e.g., graph systems, key-value store migration systems), aiming to improve query performance and system scalability. Currently, I'm working on scalable performance monitoring systems.
 
 Publications
 ======
@@ -23,8 +21,6 @@ Publications
 **[NSDI'23]** Arya: Arbitrary Graph Pattern Mining with Decomposition-based Sampling  
 <u>Zeying Zhu</u>* , Kan Wu* , Zaoxing Liu    
 [[Paper](https://zzylol.github.io/files/nsdi23-zhu.pdf)] [[Code](https://github.com/Froot-NetSys/Arya)] [[Slides](https://www.usenix.org/system/files/nsdi23_slides_zhu.pdf)] [[Talk](https://www.youtube.com/watch?v=NlXLuhnJZ9w)]  
-
-
 
 *Equal Contribution
 
@@ -49,7 +45,7 @@ Boston University, [Fall 2022](https://zaoxing.github.io/teaching/2022-fall-clou
 
 Service
 ======
-Transaction on Database Systems reviewer
+Transaction on Database Systems reviewer  
 INFOCOM'2023 reviewer  
 Artifact Evaluation Committee: CCS'24, OSDI'24, ATC'24, CoNEXT'24, SIGCOMM'24  
 
