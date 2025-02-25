@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student advised by [Prof. Alan (Zaoxing) Liu](https://zaoxing.github.io/) at [University of Maryland, College Park](https://umd.edu/). I received my B.E. for Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2021. My research interests are broadly in systems and networking. In particular, I attempt to bridge the gap between approximate algorithms (e.g., sampling, sketches) and practical computing systems (e.g., graph systems, key-value store migration systems), aiming to improve query performance and system scalability. Currently, I'm working on scalable performance monitoring systems.
+I am a fourth-year PhD student advised by [Prof. Alan (Zaoxing) Liu](https://zaoxing.github.io/) at [University of Maryland, College Park](https://umd.edu/). My research interests are broadly in systems and networking. In particular, I attempt to bridge the gap between approximate algorithms (e.g., sampling, sketches) and practical computing systems (e.g., graph systems, key-value store migration systems), aiming to improve query performance and system scalability. Currently, I'm working on scalable performance monitoring systems. 
+
+I received my B.E. for Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2021.
 
 Publications
 ======
