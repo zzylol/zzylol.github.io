@@ -47,9 +47,9 @@ Boston University, [Fall 2022](https://zaoxing.github.io/teaching/2022-fall-clou
 
 Service
 ======
-Journal reviewer: ACM Transactions on Database Systems, IEEE/ACM Transactions on Networking, Computer Networks
+Journal reviewer: ACM Transactions on Database Systems, IEEE/ACM Transactions on Networking, Computer Networks  
 Conference reviewer: INFOCOM'2023  
-Artifact Evaluation Committee: CCS'24, OSDI'24, ATC'24, CoNEXT'24, SIGCOMM'24, FAST'25 
+Artifact Evaluation Committee: CCS'24, OSDI'24, ATC'24, CoNEXT'24, SIGCOMM'24, FAST'25  
 
 Awards
 ======
