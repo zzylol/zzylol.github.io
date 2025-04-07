@@ -14,6 +14,11 @@ I received my B.E. for Computer Science from [Xi'an Jiaotong University](http://
 
 Publications
 ======
+
+**[SIGMETRICS'25]** Exploiting Kubernetes Autoscaling for Economic Denial of Sustainability  
+Jonathan Chamberlain, Jilin Zheng, <u>Zeying Zhu</u>, Zaoxing Liu, David Starobinski  
+To appear in SIGMETRICS'25  
+
 **[FAST'24, P4 Workshop 2024]** In-Memory Key-Value Store Live Migration with NetMigrate  
 <u>Zeying Zhu</u>, Yibo Zhao, Zaoxing Liu  
 <em><font color="green">[Artifacts Available]</font> <font color="red">[Artifacts Functional]</font> <font color="blue">[Artifacts Reusable]</font></em>  
