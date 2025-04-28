@@ -12,16 +12,20 @@ I am a fourth-year PhD student advised by [Prof. Alan (Zaoxing) Liu](https://zao
 
 I received my B.E. for Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2021.
 
+News
+======
+[4/2025] PromSketch is accepted by [VLDB'25](https://vldb.org/2025/)!
+
 Publications
 ======
 
 **[VLDB'25]** Approximation-First Timeseries Monitoring Query At Scale  
 <u>Zeying Zhu</u>, Jonathan Chamberlain, Kenny Wu, David Starobinski, Zaoxing Liu  
-To appear in VLDB'25  
+To appear  
 
 **[SIGMETRICS'25]** Exploiting Kubernetes Autoscaling for Economic Denial of Sustainability  
 Jonathan Chamberlain, Jilin Zheng, <u>Zeying Zhu</u>, Zaoxing Liu, David Starobinski  
-To appear in SIGMETRICS'25  
+To appear  
 
 **[FAST'24, P4 Workshop 2024]** In-Memory Key-Value Store Live Migration with NetMigrate  
 <u>Zeying Zhu</u>, Yibo Zhao, Zaoxing Liu  
