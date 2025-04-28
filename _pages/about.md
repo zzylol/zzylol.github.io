@@ -22,6 +22,7 @@ Publications
 **[VLDB'25]** Approximation-First Timeseries Monitoring Query At Scale  
 <u>Zeying Zhu</u>, Jonathan Chamberlain, Kenny Wu, David Starobinski, Zaoxing Liu  
 To appear  
+[[Code](https://github.com/Froot-NetSys/promsketch)]  
 
 **[SIGMETRICS'25]** Exploiting Kubernetes Autoscaling for Economic Denial of Sustainability  
 Jonathan Chamberlain, Jilin Zheng, <u>Zeying Zhu</u>, Zaoxing Liu, David Starobinski  
