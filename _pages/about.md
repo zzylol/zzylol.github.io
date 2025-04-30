@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student advised by [Prof. Alan (Zaoxing) Liu](https://zaoxing.github.io/) at [University of Maryland, College Park](https://umd.edu/). My research interests are broadly in systems and networking. In particular, I attempt to bridge the gap between approximate algorithms (e.g., sampling, sketches) and practical computing systems (e.g., graph systems, key-value store migration systems), aiming to improve query performance and system scalability. Currently, I'm working on scalable performance monitoring systems. 
+I am a fourth-year PhD student at [University of Maryland, College Park](https://umd.edu/), fortunate to be advised by [Prof. Alan (Zaoxing) Liu](https://zaoxing.github.io/). My research interests are broadly in systems and networking. In particular, I attempt to bridge the gap between approximate algorithms (e.g., sampling, sketches) and practical computing systems (e.g., graph systems, key-value store migration systems), aiming to improve query performance and system scalability. Currently, I'm working on scalable performance monitoring systems. 
 
 I received my B.E. for Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2021.
 
@@ -44,12 +44,13 @@ Experience
 ======
 Research Intern  
 Azure for Operators, Microsoft, WA  
-May 2022 - Aug. 2022
+May 2022 - Aug. 2022  
+Fortunately mentored by Stefan Saroiu and Alec Wolman  
 
 Research Intern  
 Network Research Group, Microsoft Research Asia, Beijing  
-Sep. 2020 - May 2021
-
+Sep. 2020 - May 2021  
+Fortunately mentored by Zhixiong Niu  
 
 Teaching
 ======
