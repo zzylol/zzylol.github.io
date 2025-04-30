@@ -48,12 +48,12 @@ Experience
 Research Intern  
 Azure for Operators, Microsoft, WA  
 May 2022 - Aug. 2022  
-Fortunate to be mentored by Stefan Saroiu and Alec Wolman  
+Fortunate to be mentored by [Stefan Saroiu](https://stefan.t8k2.com/index.html) and [Alec Wolman](https://alecw.azurewebsites.net/work/default.htm)  
 
 Research Intern  
 Network Research Group, Microsoft Research Asia, Beijing  
 Sep. 2020 - May 2021  
-Fortunate to be mentored by Zhixiong Niu  
+Fortunate to be mentored by [Zhixiong Niu](https://zhixiong.org/)  
 
 Teaching
 ======
