@@ -14,10 +14,10 @@ I received my B.E. for Computer Science from [Xi'an Jiaotong University](http://
 
 News
 ======
-[4/2025] PromSketch was accepted by [VLDB'25](https://vldb.org/2025/)!  
-[3/2025] A paper on Economic Denial of Service was accepted by [SIGMETRICS'25](https://www.sigmetrics.org/sigmetrics2025/)!  
-[10/2024] NetMigrated was presented at [P4 Workshop](https://p4.org/p4_events/2023-p4-workshop-postevent/)!  
-
+[04/2025] PromSketch was accepted by [VLDB'25](https://vldb.org/2025/)!  
+[03/2025] A paper on Economic Denial of Service was accepted by [SIGMETRICS'25](https://www.sigmetrics.org/sigmetrics2025/)!  
+[10/2024] NetMigrate was presented at [P4 Workshop](https://p4.org/p4_events/2023-p4-workshop-postevent/)!  
+[12/2023] NetMigrate was accepted by [FAST'24](https://www.usenix.org/conference/fast24/technical-sessions)!  
 
 Publications
 ======
