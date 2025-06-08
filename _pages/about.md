@@ -63,16 +63,3 @@ Boston University, [Spring 2023](https://people.bu.edu/herbordt/teaching.htm)
 
 Teaching Assistant, EC528 Cloud Computing  
 Boston University, [Fall 2022](https://zaoxing.github.io/teaching/2022-fall-cloud)
-
-Service
-======
-Journal reviewer: ACM Transactions on Database Systems, IEEE/ACM Transactions on Networking, Computer Networks  
-Conference reviewer: INFOCOM'2023  
-Artifact Evaluation Committee: CCS'24, OSDI'24, ATC'24, CoNEXT'24, SIGCOMM'24, FAST'25  
-
-Awards
-======
-<div style="text-align:left;">Hariri Institute’s Graduate Student Fellowship, Boston University<div style="float:right;">2023</div></div>
-<div style="text-align:left;">Distinguished Computer Engineering Fellowship, Boston University<div style="float:right;">2021</div></div>
-<div style="text-align:left;">Stars of Tomorrow Internship Award, Microsoft Research Asia<div style="float:right;">2021</div></div>
-<div style="text-align:left;">National Scholarship, Ministry of Education, China<div style="float:right;">2018, 2019, 2020</div></div>
