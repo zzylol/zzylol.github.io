@@ -23,7 +23,7 @@ News
 Publications
 ======
 
-**[[VLDB'25](https://vldb.org/2025/)]** Approximation-First Timeseries Monitoring Query At Scale  
+**[[VLDB'25](https://vldb.org/2025/)]** Approximation-First Timeseries Query At Scale  
 <u>Zeying Zhu</u>, Jonathan Chamberlain, Kenny Wu, David Starobinski, Zaoxing Liu  
 To appear  
 [[Paper](https://www.vldb.org/pvldb/vol18/p2348-zhu.pdf)] [[Code](https://github.com/Froot-NetSys/promsketch)]  
