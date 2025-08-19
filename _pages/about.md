@@ -30,7 +30,7 @@ To appear
 
 **[[SIGMETRICS'25](https://www.sigmetrics.org/sigmetrics2025/)]** Exploiting Kubernetes Autoscaling for Economic Denial of Sustainability  
 Jonathan Chamberlain, Jilin Zheng, <u>Zeying Zhu</u>, Zaoxing Liu, David Starobinski  
-To appear  
+[[Paper](https://dl.acm.org/doi/10.1145/3726854.3727284)]
 
 **[[FAST'24](https://www.usenix.org/conference/fast24), [P4 Workshop 2024](https://p4.org/p4_events/2023-p4-workshop-postevent/)]** In-Memory Key-Value Store Live Migration with NetMigrate  
 <u>Zeying Zhu</u>, Yibo Zhao, Zaoxing Liu  
