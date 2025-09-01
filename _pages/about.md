@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th-year PhD student at [University of Maryland, College Park](https://umd.edu/), fortunate to be advised by [Prof. Alan (Zaoxing) Liu](https://zaoxing.github.io/). My research interests are broadly in systems and networking. In particular, I attempt to bridge the gap between approximate algorithms (e.g., sampling, sketches) and practical computing systems (e.g., graph systems, key-value store migration systems), aiming to improve query performance and system scalability. Currently, I'm working on scalable cloud telemetry systems. 
+I am a 5th-year PhD student at [University of Maryland, College Park](https://umd.edu/), fortunate to be advised by [Prof. Alan (Zaoxing) Liu](https://zaoxing.github.io/). My research interests are broadly in systems and networking. In particular, I attempt to bridge the gap between approximate algorithms (e.g., sampling, sketches) and practical computing systems, aiming to improve query performance and system scalability. Currently, I'm working on scalable cloud telemetry systems. 
 
 I received my B.E. for Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2021.
 
 News
 ======
+[09/2025] [PromSketch](https://www.vldb.org/pvldb/vol18/p2348-zhu.pdf) will be presented at VLDB'25!  
 [05/2025] I will be interning at Microsoft Strategic Planning and Architecture (SPARC) group this summer :)  
 [04/2025] PromSketch was accepted by [VLDB'25](https://vldb.org/2025/)!  
 [03/2025] A paper on Economic Denial of Service was accepted by [SIGMETRICS'25](https://www.sigmetrics.org/sigmetrics2025/)!  
@@ -26,7 +27,7 @@ Publications
 **[[VLDB'25](https://vldb.org/2025/)]** Approximation-First Timeseries Query At Scale  
 <u>Zeying Zhu</u>, Jonathan Chamberlain, Kenny Wu, David Starobinski, Zaoxing Liu  
 To appear  
-[[Paper](https://www.vldb.org/pvldb/vol18/p2348-zhu.pdf)] [[Code](https://github.com/Froot-NetSys/promsketch)]  
+[[Paper](https://www.vldb.org/pvldb/vol18/p2348-zhu.pdf)] [[Code](https://github.com/Froot-NetSys/promsketch)] [[Demo](https://www.youtube.com/watch?v=skoXfeZZj4I)] 
 
 **[[SIGMETRICS'25](https://www.sigmetrics.org/sigmetrics2025/)]** Exploiting Kubernetes Autoscaling for Economic Denial of Sustainability  
 Jonathan Chamberlain, Jilin Zheng, <u>Zeying Zhu</u>, Zaoxing Liu, David Starobinski  
