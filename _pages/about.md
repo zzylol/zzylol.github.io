@@ -26,7 +26,6 @@ Publications
 
 **[[VLDB'25](https://vldb.org/2025/)]** Approximation-First Timeseries Query At Scale  
 <u>Zeying Zhu</u>, Jonathan Chamberlain, Kenny Wu, David Starobinski, Zaoxing Liu  
-To appear  
 [[Paper](https://www.vldb.org/pvldb/vol18/p2348-zhu.pdf)] [[Code](https://github.com/Froot-NetSys/promsketch)] [[Demo](https://www.youtube.com/watch?v=skoXfeZZj4I)] 
 
 **[[SIGMETRICS'25](https://www.sigmetrics.org/sigmetrics2025/)]** Exploiting Kubernetes Autoscaling for Economic Denial of Sustainability  
