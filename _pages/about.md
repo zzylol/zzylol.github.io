@@ -31,7 +31,7 @@ Publications
 <details class="publication-summary">
   <summary>Paper summary</summary>
   <p>Timeseries monitoring systems such as Prometheus play a crucial role in gaining observability of the underlying system infrastructure. These systems collect timeseries metrics from various system components and perform monitoring queries over periodic windowbased aggregations (i.e., rule queries). However, despite wide adoption, the operational costs and query latency of rule queries remain high. In this paper, we identify major bottlenecks associated with repeated data scans and query computations concerning window overlaps in rule queries, and present PromSketch, an approximation-first query framework as intermediate caches for monitoring systems. It enables low operational costs and query latency, by combining approximate window-based query frameworks and sketch-based precomputation. PromSketch is implemented as a standalone module that can be integrated into Prometheus and VictoriaMetrics, covering 70% of Prometheus’ aggregation over time queries. Our evaluation shows that PromSketch achieves up to a two-orderof-magnitude reduction in query latency over Prometheus and VictoriaMetrics, while lowering operational dollar costs of query processing by three orders of magnitude compared to Prometheus and by at least 4x compared to VictoriaMetrics with at most 5% average errors across statistics.</p>
-</details>
+</details>  
 
 **[[SIGMETRICS'25](https://www.sigmetrics.org/sigmetrics2025/)]** Exploiting Kubernetes Autoscaling for Economic Denial of Sustainability  
 Jonathan Chamberlain, Jilin Zheng, <u>Zeying Zhu</u>, Zaoxing Liu, David Starobinski  
@@ -56,7 +56,7 @@ efficiency. Interestingly, increasing the intensity of an attack may render it l
 power. Finally, we demonstrate a proof-of-concept for a countermeasure involving custom scaling metrics
 where autoscaling decisions are randomized. We demonstrate that per-minute utilization charges are reduced
 compared to standard scaling, with negligible drops in requests.</p>
-</details>
+</details>  
 
 **[[FAST'24](https://www.usenix.org/conference/fast24), [P4 Workshop 2024](https://p4.org/p4_events/2023-p4-workshop-postevent/)]** In-Memory Key-Value Store Live Migration with NetMigrate  
 <u>Zeying Zhu</u>, Yibo Zhao, Zaoxing Liu  
@@ -79,7 +79,7 @@ experiments demonstrate that NetMigrate improves the query
 throughput from 6.5% to 416% and maintains low access
 latency during migration, compared to the state-of-the-art
 migration approaches.</p>
-</details>
+</details>  
 
 
 **[[NSDI'23](https://www.usenix.org/conference/nsdi23)]** Arya: Arbitrary Graph Pattern Mining with Decomposition-based Sampling  
@@ -101,7 +101,7 @@ demonstrates that Arya outperforms existing exact and approximate pattern mining
 magnitude. Arya supports graphs with 5 billion edges on
 a single machine and scales to 10-billion-edge graphs on a
 32-server testbed.</p>
-</details>
+</details>  
 
 *Equal Contribution
 
