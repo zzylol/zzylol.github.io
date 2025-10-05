@@ -60,5 +60,14 @@
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
 
+    {% if post.summary %}
+      <details class="archive__item-summary">
+        <summary>Paper summary</summary>
+        <div class="archive__item-summary-content">
+          {{ post.summary | markdownify }}
+        </div>
+      </details>
+    {% endif %}
+
   </article>
 </div>
