@@ -27,7 +27,6 @@ Publications
 **[[VLDB'25](https://vldb.org/2025/)]** Approximation-First Timeseries Query At Scale  
 <u>Zeying Zhu</u>, Jonathan Chamberlain, Kenny Wu, David Starobinski, Zaoxing Liu  
 [[Paper](https://www.vldb.org/pvldb/vol18/p2348-zhu.pdf)] [[Code](https://github.com/Froot-NetSys/promsketch)] [[Demo](https://www.youtube.com/watch?v=skoXfeZZj4I)] 
-{: .publication-links }
 <details class="publication-summary">
   <summary>Paper summary</summary>
   <p>Timeseries monitoring systems such as Prometheus play a crucial role in gaining observability of the underlying system infrastructure. These systems collect timeseries metrics from various system components and perform monitoring queries over periodic windowbased aggregations (i.e., rule queries). However, despite wide adoption, the operational costs and query latency of rule queries remain high. In this paper, we identify major bottlenecks associated with repeated data scans and query computations concerning window overlaps in rule queries, and present PromSketch, an approximation-first query framework as intermediate caches for monitoring systems. It enables low operational costs and query latency, by combining approximate window-based query frameworks and sketch-based precomputation. PromSketch is implemented as a standalone module that can be integrated into Prometheus and VictoriaMetrics, covering 70% of Prometheus’ aggregation over time queries. Our evaluation shows that PromSketch achieves up to a two-orderof-magnitude reduction in query latency over Prometheus and VictoriaMetrics, while lowering operational dollar costs of query processing by three orders of magnitude compared to Prometheus and by at least 4x compared to VictoriaMetrics with at most 5% average errors across statistics.</p>
@@ -35,8 +34,7 @@ Publications
 
 **[[SIGMETRICS'25](https://www.sigmetrics.org/sigmetrics2025/)]** Exploiting Kubernetes Autoscaling for Economic Denial of Sustainability  
 Jonathan Chamberlain, Jilin Zheng, <u>Zeying Zhu</u>, Zaoxing Liu, David Starobinski  
-[[Paper](https://dl.acm.org/doi/pdf/10.1145/3727114)]
-{: .publication-links }
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3727114)]  
 <details class="publication-summary">
   <summary>Paper summary</summary>
   <p>The flexibility and scale of networks achievable by modern cloud computer architectures, particularly Kubernetes (K8s)-based applications, are rivaled only by the resulting complexity required to operate at scale in a
@@ -61,8 +59,7 @@ compared to standard scaling, with negligible drops in requests.</p>
 **[[FAST'24](https://www.usenix.org/conference/fast24), [P4 Workshop 2024](https://p4.org/p4_events/2023-p4-workshop-postevent/)]** In-Memory Key-Value Store Live Migration with NetMigrate  
 <u>Zeying Zhu</u>, Yibo Zhao, Zaoxing Liu  
 <em><font color="green">[Artifacts Available]</font> <font color="red">[Artifacts Functional]</font> <font color="blue">[Artifacts Reusable]</font></em>  
-[[Paper](https://www.usenix.org/system/files/fast24-zhu.pdf)] [[Code](https://github.com/Froot-NetSys/NetMigrate)] [[Slides](https://zzylol.github.io/files/NetMigrate_slides_zhu.pptx)] [[FAST'24 Talk](https://youtu.be/l1fZykAGdM0)] [[P4 Workshop Talk](https://www.youtube.com/watch?v=fNCHO472CTI)]
-{: .publication-links }
+[[Paper](https://www.usenix.org/system/files/fast24-zhu.pdf)] [[Code](https://github.com/Froot-NetSys/NetMigrate)] [[Slides](https://zzylol.github.io/files/NetMigrate_slides_zhu.pptx)] [[FAST'24 Talk](https://youtu.be/l1fZykAGdM0)] [[P4 Workshop Talk](https://www.youtube.com/watch?v=fNCHO472CTI)]  
 <details class="publication-summary">
   <summary>Paper summary</summary>
   <p>Distributed key-value stores today require frequent key-value
@@ -85,7 +82,6 @@ migration approaches.</p>
 **[[NSDI'23](https://www.usenix.org/conference/nsdi23)]** Arya: Arbitrary Graph Pattern Mining with Decomposition-based Sampling  
 <u>Zeying Zhu</u>* , Kan Wu* , Zaoxing Liu    
 [[Paper](https://zzylol.github.io/files/nsdi23-zhu.pdf)] [[Code](https://github.com/Froot-NetSys/Arya)] [[Slides](https://www.usenix.org/system/files/nsdi23_slides_zhu.pdf)] [[Talk](https://www.youtube.com/watch?v=NlXLuhnJZ9w)]  
-{: .publication-links }
 <details class="publication-summary">
   <summary>Paper summary</summary>
   <p>Graph pattern mining is compute-intensive in processing massive amounts of graph-structured data. This paper
