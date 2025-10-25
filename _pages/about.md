@@ -123,6 +123,7 @@ Boston University, [Fall 2022](https://zaoxing.github.io/teaching/2022-fall-clou
 
 Services
 ======
+Web Chair: [HotNets'25](https://conferences.sigcomm.org/hotnets/2025/index.html)  
 Journal reviewer: ACM Transactions on Database Systems, IEEE/ACM Transactions on Networking, Computer Networks  
 Conference reviewer: INFOCOM'2023   
 
