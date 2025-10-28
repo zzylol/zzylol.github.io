@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at [University of Maryland, College Park](https://umd.edu/), advised by [Prof. Alan (Zaoxing) Liu](https://zaoxing.github.io/). My research interests are broadly in systems and networking, with a focus on bridging the gap between approximate algorithms (e.g., sampling, sketches) and practical computing systems, aiming to improve query performance, enhance system scalability, and reduce operational costs of cloud telemetry systems. 
+I am a PhD student at [University of Maryland, College Park](https://umd.edu/), advised by [Prof. Alan (Zaoxing) Liu](https://zaoxing.github.io/). My research interests are broadly in systems and networking, with a focus on bridging the gap between approximate algorithms (e.g., sampling, sketches) and practical computing systems, aiming to enable low latency, high scalability, low operational costs, and trustworthiness of cloud telemetry systems. 
 
-I received my B.E. for Computer Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2021.
+Prior to my PhD studies, I received my B.E. for Computer Science from Xi'an Jiaotong University in 2021.
 
 News
 ======
@@ -24,11 +24,11 @@ News
 Publications
 ======
 
-**[HotNets'25]** Towards Verifiable Network Telemetry without Special Purpose Hardware  
+**[HotNets'25] Towards Verifiable Network Telemetry without Special Purpose Hardware**  
 Jaechan An, <u>Zeying Zhu</u>, Ian Miers, Zaoxing Liu  
 to appear in HotNets'25   
 
-**[[VLDB'25](https://vldb.org/2025/)]** Approximation-First Timeseries Query At Scale  
+**[VLDB'25] Approximation-First Timeseries Query At Scale**  
 <u>Zeying Zhu</u>, Jonathan Chamberlain, Kenny Wu, David Starobinski, Zaoxing Liu  
 [[Paper](https://www.vldb.org/pvldb/vol18/p2348-zhu.pdf)] [[Code](https://github.com/Froot-NetSys/promsketch)] [[Slides](https://github.com/zzylol/zzylol.github.io/blob/master/files/PromSketch-Presentation-VLDB25.pdf)] [[Demo](https://www.youtube.com/watch?v=skoXfeZZj4I)] 
 <details class="publication-summary">
@@ -36,7 +36,7 @@ to appear in HotNets'25
   <p>Timeseries monitoring systems such as Prometheus play a crucial role in gaining observability of the underlying system infrastructure. These systems collect timeseries metrics from various system components and perform monitoring queries over periodic windowbased aggregations (i.e., rule queries). However, despite wide adoption, the operational costs and query latency of rule queries remain high. In this paper, we identify major bottlenecks associated with repeated data scans and query computations concerning window overlaps in rule queries, and present PromSketch, an approximation-first query framework as intermediate caches for monitoring systems. It enables low operational costs and query latency, by combining approximate window-based query frameworks and sketch-based precomputation. PromSketch is implemented as a standalone module that can be integrated into Prometheus and VictoriaMetrics, covering 70% of Prometheus’ aggregation over time queries. Our evaluation shows that PromSketch achieves up to a two-orderof-magnitude reduction in query latency over Prometheus and VictoriaMetrics, while lowering operational dollar costs of query processing by three orders of magnitude compared to Prometheus and by at least 4x compared to VictoriaMetrics with at most 5% average errors across statistics.</p>
 </details>  
 
-**[[SIGMETRICS'25](https://www.sigmetrics.org/sigmetrics2025/)]** Exploiting Kubernetes Autoscaling for Economic Denial of Sustainability  
+**[SIGMETRICS'25] Exploiting Kubernetes Autoscaling for Economic Denial of Sustainability**  
 Jonathan Chamberlain, Jilin Zheng, <u>Zeying Zhu</u>, Zaoxing Liu, David Starobinski  
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3727114)]  
 <details class="publication-summary">
@@ -60,7 +60,7 @@ where autoscaling decisions are randomized. We demonstrate that per-minute utili
 compared to standard scaling, with negligible drops in requests.</p>
 </details>  
 
-**[[FAST'24](https://www.usenix.org/conference/fast24), [P4 Workshop 2024](https://p4.org/p4_events/2023-p4-workshop-postevent/)]** In-Memory Key-Value Store Live Migration with NetMigrate  
+**[FAST'24] In-Memory Key-Value Store Live Migration with NetMigrate**  
 <u>Zeying Zhu</u>, Yibo Zhao, Zaoxing Liu  
 <em><font color="green">[Artifacts Available]</font> <font color="red">[Artifacts Functional]</font> <font color="blue">[Artifacts Reusable]</font></em>  
 [[Paper](https://www.usenix.org/system/files/fast24-zhu.pdf)] [[Code](https://github.com/Froot-NetSys/NetMigrate)] [[Slides](https://zzylol.github.io/files/NetMigrate_slides_zhu.pptx)] [[FAST'24 Talk](https://youtu.be/l1fZykAGdM0)] [[P4 Workshop Talk](https://www.youtube.com/watch?v=fNCHO472CTI)]  
@@ -83,7 +83,7 @@ migration approaches.</p>
 </details>  
 
 
-**[[NSDI'23](https://www.usenix.org/conference/nsdi23)]** Arya: Arbitrary Graph Pattern Mining with Decomposition-based Sampling  
+**[NSDI'23] Arya: Arbitrary Graph Pattern Mining with Decomposition-based Sampling**  
 <u>Zeying Zhu</u>* , Kan Wu* , Zaoxing Liu    
 [[Paper](https://zzylol.github.io/files/nsdi23-zhu.pdf)] [[Code](https://github.com/Froot-NetSys/Arya)] [[Slides](https://www.usenix.org/system/files/nsdi23_slides_zhu.pdf)] [[Talk](https://www.youtube.com/watch?v=NlXLuhnJZ9w)]  
 <details class="publication-summary">
