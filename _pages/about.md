@@ -24,6 +24,10 @@ News
 Publications
 ======
 
+**[HotNets'25]** Towards Verifiable Network Telemetry without Special Purpose Hardware  
+Jaechan An, <u>Zeying Zhu</u>, Ian Miers, Zaoxing Liu  
+to appear in HotNets'25   
+
 **[[VLDB'25](https://vldb.org/2025/)]** Approximation-First Timeseries Query At Scale  
 <u>Zeying Zhu</u>, Jonathan Chamberlain, Kenny Wu, David Starobinski, Zaoxing Liu  
 [[Paper](https://www.vldb.org/pvldb/vol18/p2348-zhu.pdf)] [[Code](https://github.com/Froot-NetSys/promsketch)] [[Slides](https://github.com/zzylol/zzylol.github.io/blob/master/files/PromSketch-Presentation-VLDB25.pdf)] [[Demo](https://www.youtube.com/watch?v=skoXfeZZj4I)] 
