@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at [University of Maryland, College Park](https://umd.edu/), advised by [Prof. Alan (Zaoxing) Liu](https://zaoxing.github.io/). My research interests are broadly in systems and networking, with a focus on bridging the gap between approximate algorithms (e.g., sampling, sketches) and practical computing systems, aiming to enable low latency, high scalability, low operational costs, and trustworthiness of cloud telemetry systems. 
+I am a Ph.D. candidate at [University of Maryland, College Park](https://umd.edu/), advised by [Prof. Alan (Zaoxing) Liu](https://zaoxing.github.io/). My research interests are broadly in systems and networking, with a focus on bridging the gap between approximate algorithms (e.g., sampling, sketches) and practical computing systems, aiming to enable low latency, high scalability, low operational costs, and trustworthiness of cloud telemetry systems. 
 
 Prior to my PhD studies, I received my B.E. for Computer Science from Xi'an Jiaotong University in 2021.
 
@@ -26,7 +26,11 @@ Publications
 
 **[HotNets'25] Towards Verifiable Network Telemetry without Special Purpose Hardware**  
 Jaechan An, <u>Zeying Zhu</u>, Ian Miers, Zaoxing Liu  
-to appear in HotNets'25   
+[[Paper](https://dl.acm.org/doi/10.1145/3772356.3772392)]
+<details class="publication-summary">
+  <summary>Paper summary</summary>
+  <p>Verifiable network telemetry is crucial for ensuring transparency and trust in network measurements. However, telemetry logs (e.g., NetFlow records) often contain sensitive data, making public verification challenging. Recent work has attempted to address this problem using Trusted Execution Environments (TEEs), such as Intel SGX, to provide confidentiality and integrity guarantees. However, TEEs are known to suffer from complex deployment requirements and limited scalability. In this paper, we introduce a software-based approach utilizing the latest advances in Zero-knowledge Proofs (ZKPs) to enable verifiable network telemetry without revealing the underlying sensitive logs or relying on special-purpose hardware. Our system employs a general-purpose ZKP virtual machine (RISC Zero) to generate cryptographic proofs over NetFlow data, enabling operators to securely attest to network flow metrics. Our preliminary results indicate that our ZKP-based design offers a viable path toward overcoming deployment and scalability limitations inherent in the solutions that require special-purpose hardware.</p>
+</details>    
 
 **[VLDB'25] Approximation-First Timeseries Query At Scale**  
 <u>Zeying Zhu</u>, Jonathan Chamberlain, Kenny Wu, David Starobinski, Zaoxing Liu  
