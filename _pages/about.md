@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. candidate at [University of Maryland, College Park](https://umd.edu/), advised by [Prof. Alan (Zaoxing) Liu](https://zaoxing.github.io/). My research interests are broadly in systems and networking, with a focus on bridging the gap between approximate algorithms (e.g., sampling, sketches) and practical computing systems, aiming to enable low latency, high scalability, low operational costs, and trustworthiness of cloud telemetry systems. 
 
-Prior to my PhD study, I received my B.E. for Computer Science from Xi'an Jiaotong University in 2021.
+Prior to my PhD studies, I received my B.E. in Computer Science from Xi’an Jiaotong University in 2021.
 
 News
 ======
@@ -135,8 +135,9 @@ Web Chair: [HotNets'25](https://conferences.sigcomm.org/hotnets/2025/index.html)
 Journal reviewer: ACM Transactions on Database Systems, IEEE/ACM Transactions on Networking, Computer Networks  
 Conference reviewer: INFOCOM'2023   
 
-Awards
+Honors & Awards
 ======
+<div style="text-align:left;">Future Faculty Fellow, Clark School of Engineering, University of Maryland<div style="float:right;">2026</div></div>
 <div style="text-align:left;">Hariri Institute’s Graduate Student Fellowship, Boston University<div style="float:right;">2023</div></div>
 <div style="text-align:left;">Distinguished Computer Engineering Fellowship, Boston University<div style="float:right;">2021</div></div>
 <div style="text-align:left;">Stars of Tomorrow Internship Award, Microsoft Research Asia<div style="float:right;">2021</div></div>
