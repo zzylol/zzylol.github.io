@@ -1,7 +1,7 @@
 # main links links
-# main:
-#   - title: "Misc"
-#     url: /misc/
+main:
+  - title: "CV"
+    url: /files/CV_Zeying_Zhu_2026.pdf
 
 
     
