@@ -111,6 +111,17 @@ a single machine and scales to 10-billion-edge graphs on a
 \*Equal Contribution
 
 
+Teaching
+======
+Teaching Assistant, EC527 High Performance Programming with Multicore and GPUs  
+Boston University, [Spring 2023](https://people.bu.edu/herbordt/teaching.htm)  
+
+Teaching Assistant, EC528 Cloud Computing  
+Boston University, [Fall 2022](https://zaoxing.github.io/teaching/2022-fall-cloud)  
+
+
+
+
 <!-- Invited Talk
 ======
 <div style="text-align:left;">Rearchitecting Metrics Observability Through Approximation-First Techniques @ Jane Street   <div style="float:right;">Jan 2026</div></div>   -->
@@ -125,13 +136,6 @@ Honors & Awards
 <div style="text-align:left;">National Scholarship, Ministry of Education, China<div style="float:right;">2018, 2019, 2020</div></div>
 
 
-Teaching
-======
-Teaching Assistant, EC527 High Performance Programming with Multicore and GPUs  
-Boston University, [Spring 2023](https://people.bu.edu/herbordt/teaching.htm)  
-
-Teaching Assistant, EC528 Cloud Computing  
-Boston University, [Fall 2022](https://zaoxing.github.io/teaching/2022-fall-cloud)  
 
 <!-- Services
 ======
