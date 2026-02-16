@@ -12,7 +12,7 @@ I am a Ph.D. candidate at [University of Maryland, College Park](https://umd.edu
 
 <!-- My research interests are broadly in systems and networking, with a focus on bridging the gap between approximate algorithms (e.g., sampling, sketches) and practical computing systems, aiming to enable low latency, high scalability, low operational costs, and trustworthiness of cloud telemetry systems.  -->
 
-Prior to my PhD studies, I received my B.E. in Computer Science from Xi’an Jiaotong University in 2021.
+Prior to my PhD studies, I received my B.E. in Computer Science from Xi'an Jiaotong University in 2021.
 
 News
 ======
