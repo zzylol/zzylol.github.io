@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at [University of Maryland, College Park](https://umd.edu/), advised by [Prof. Alan (Zaoxing) Liu](https://zaoxing.github.io/). My research interests are broadly in systems and networking, with a focus on bridging the gap between approximate algorithms (e.g., sampling, sketches) and practical computing systems, aiming to enable low latency, high scalability, low operational costs, and trustworthiness of cloud telemetry systems. 
+I am a Ph.D. candidate at [University of Maryland, College Park](https://umd.edu/), advised by [Prof. Alan (Zaoxing) Liu](https://zaoxing.github.io/). My research focuses on making cloud telemetry systems low-latency and cost-efficient ([PromSketch](https://www.vldb.org/pvldb/vol18/p2348-zhu.pdf)), highly scalable ([NetMigrate](https://www.usenix.org/system/files/fast24-zhu.pdf)), and trustworthy.
+
+<!-- My research interests are broadly in systems and networking, with a focus on bridging the gap between approximate algorithms (e.g., sampling, sketches) and practical computing systems, aiming to enable low latency, high scalability, low operational costs, and trustworthiness of cloud telemetry systems.  -->
 
 Prior to my PhD studies, I received my B.E. in Computer Science from Xi’an Jiaotong University in 2021.
 
@@ -21,7 +23,7 @@ News
 [10/2024] NetMigrate was presented at [P4 Workshop](https://p4.org/p4_events/2023-p4-workshop-postevent/)!  
 [12/2023] NetMigrate was accepted by [FAST'24](https://www.usenix.org/conference/fast24/technical-sessions)!  
 
-Publications
+Research
 ======
 
 **[HotNets'25] Towards Verifiable Network Telemetry without Special Purpose Hardware**  
@@ -88,7 +90,7 @@ migration approaches.</p>
 
 
 **[NSDI'23] Arya: Arbitrary Graph Pattern Mining with Decomposition-based Sampling**  
-<u>Zeying Zhu</u>* , Kan Wu* , Zaoxing Liu    
+<u>Zeying Zhu</u>\*, Kan Wu\*, Zaoxing Liu
 [[Paper](https://zzylol.github.io/files/nsdi23-zhu.pdf)] [[Code](https://github.com/Froot-NetSys/Arya)] [[Slides](https://www.usenix.org/system/files/nsdi23_slides_zhu.pdf)] [[Talk](https://www.youtube.com/watch?v=NlXLuhnJZ9w)]  
 <details class="publication-summary">
   <summary>Paper summary</summary>
@@ -107,8 +109,40 @@ a single machine and scales to 10-billion-edge graphs on a
 32-server testbed.</p>
 </details>  
 
-*Equal Contribution
+\*Equal Contribution
 
+
+Invited Talk
+======
+<div style="text-align:left;">Rearchitecting Metrics Observability Through Approximation-First Techniques @ Jane Street   <div style="float:right;">Jan 2026</div></div>
+
+
+Honors & Awards
+======
+<div style="text-align:left;">Future Faculty Fellow, Clark School of Engineering, University of Maryland<div style="float:right;">2026</div></div>
+<div style="text-align:left;">Hariri Institute’s Graduate Student Fellowship, Boston University<div style="float:right;">2023</div></div>
+<div style="text-align:left;">Distinguished Computer Engineering Fellowship, Boston University<div style="float:right;">2021</div></div>
+<div style="text-align:left;">Stars of Tomorrow Internship Award, Microsoft Research Asia<div style="float:right;">2021</div></div>
+<div style="text-align:left;">National Scholarship, Ministry of Education, China<div style="float:right;">2018, 2019, 2020</div></div>
+
+
+Teaching
+======
+Teaching Assistant, EC527 High Performance Programming with Multicore and GPUs  
+Boston University, [Spring 2023](https://people.bu.edu/herbordt/teaching.htm)  
+
+Teaching Assistant, EC528 Cloud Computing  
+Boston University, [Fall 2022](https://zaoxing.github.io/teaching/2022-fall-cloud)  
+
+<!-- Services
+======
+Web Chair: [HotNets'25](https://conferences.sigcomm.org/hotnets/2025/index.html)  
+Journal reviewer: ACM Transactions on Database Systems, IEEE/ACM Transactions on Networking, Computer Networks  
+Conference reviewer: INFOCOM'2023  
+
+ -->
+
+<!-- 
 Experience
 ======
 Research Intern  
@@ -121,24 +155,4 @@ Network Research Group, Microsoft Research Asia, Beijing
 Sep. 2020 - May 2021  
 Fortunate to be mentored by [Zhixiong Niu](https://zhixiong.org/)  
 
-Teaching
-======
-Teaching Assistant, EC527 High Performance Programming with Multicore and GPUs  
-Boston University, [Spring 2023](https://people.bu.edu/herbordt/teaching.htm)  
-
-Teaching Assistant, EC528 Cloud Computing  
-Boston University, [Fall 2022](https://zaoxing.github.io/teaching/2022-fall-cloud)  
-
-Services
-======
-Web Chair: [HotNets'25](https://conferences.sigcomm.org/hotnets/2025/index.html)  
-Journal reviewer: ACM Transactions on Database Systems, IEEE/ACM Transactions on Networking, Computer Networks  
-Conference reviewer: INFOCOM'2023   
-
-Honors & Awards
-======
-<div style="text-align:left;">Future Faculty Fellow, Clark School of Engineering, University of Maryland<div style="float:right;">2026</div></div>
-<div style="text-align:left;">Hariri Institute’s Graduate Student Fellowship, Boston University<div style="float:right;">2023</div></div>
-<div style="text-align:left;">Distinguished Computer Engineering Fellowship, Boston University<div style="float:right;">2021</div></div>
-<div style="text-align:left;">Stars of Tomorrow Internship Award, Microsoft Research Asia<div style="float:right;">2021</div></div>
-<div style="text-align:left;">National Scholarship, Ministry of Education, China<div style="float:right;">2018, 2019, 2020</div></div>
+  -->
