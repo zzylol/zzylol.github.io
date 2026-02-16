@@ -16,8 +16,7 @@ Prior to my PhD studies, I received my B.E. in Computer Science from Xi’an Jia
 
 News
 ======
-[09/2025] [PromSketch](https://www.vldb.org/pvldb/vol18/p2348-zhu.pdf) will be presented at VLDB'25!  
-[05/2025] I will be interning at Microsoft Strategic Planning and Architecture (SPARC) group this summer :)  
+[09/2025] [PromSketch](https://www.vldb.org/pvldb/vol18/p2348-zhu.pdf) will be presented at VLDB'25!   
 [04/2025] PromSketch was accepted by [VLDB'25](https://vldb.org/2025/)!  
 [03/2025] A paper on Economic Denial of Service was accepted by [SIGMETRICS'25](https://www.sigmetrics.org/sigmetrics2025/)!  
 [10/2024] NetMigrate was presented at [P4 Workshop](https://p4.org/p4_events/2023-p4-workshop-postevent/)!  
@@ -112,15 +111,15 @@ a single machine and scales to 10-billion-edge graphs on a
 \*Equal Contribution
 
 
-Invited Talk
+<!-- Invited Talk
 ======
-<div style="text-align:left;">Rearchitecting Metrics Observability Through Approximation-First Techniques @ Jane Street   <div style="float:right;">Jan 2026</div></div>
+<div style="text-align:left;">Rearchitecting Metrics Observability Through Approximation-First Techniques @ Jane Street   <div style="float:right;">Jan 2026</div></div>   -->
 
 
 Honors & Awards
 ======
 <div style="text-align:left;">Future Faculty Fellow, Clark School of Engineering, University of Maryland<div style="float:right;">2026</div></div>
-<div style="text-align:left;">Hariri Institute’s Graduate Student Fellowship, Boston University<div style="float:right;">2023</div></div>
+<div style="text-align:left;">Hariri Institute's Graduate Student Fellowship, Boston University<div style="float:right;">2023</div></div>
 <div style="text-align:left;">Distinguished Computer Engineering Fellowship, Boston University<div style="float:right;">2021</div></div>
 <div style="text-align:left;">Stars of Tomorrow Internship Award, Microsoft Research Asia<div style="float:right;">2021</div></div>
 <div style="text-align:left;">National Scholarship, Ministry of Education, China<div style="float:right;">2018, 2019, 2020</div></div>
