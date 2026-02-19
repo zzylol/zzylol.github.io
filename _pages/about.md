@@ -73,7 +73,7 @@ compared to standard scaling, with negligible drops in requests.</p>
 <u>Zeying Zhu</u>, Yibo Zhao, Zaoxing Liu  
 <em><font color="green">[Artifacts Available]</font> <font color="red">[Artifacts Functional]</font> <font color="blue">[Artifacts Reusable]</font></em>  
 [[Paper](https://www.usenix.org/system/files/fast24-zhu.pdf)] [[Code](https://github.com/Froot-NetSys/NetMigrate)] [[Slides](https://zzylol.github.io/files/NetMigrate_slides_zhu.pptx)] [[FAST'24 Talk](https://youtu.be/l1fZykAGdM0)] [[P4 Workshop Talk](https://www.youtube.com/watch?v=fNCHO472CTI)]  
-<div style="text-align: center;"><img src="/images/netmigrate-figure.png" alt="NetMigrate" style="max-width: 400px; margin: 10px auto; box-shadow: 0 2px 8px rgba(0,0,0,0.15); border-radius: 4px;"></div>  
+<div style="text-align: center;"><img src="/images/netmigrate-figure.png" alt="NetMigrate" style="max-width: 600px; margin: 10px auto; box-shadow: 0 2px 8px rgba(0,0,0,0.15); border-radius: 4px;"></div>  
 <details class="publication-summary">
   <summary>Paper summary</summary>
   <p>Distributed key-value stores today require frequent key-value
