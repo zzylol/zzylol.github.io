@@ -38,7 +38,7 @@ Jaechan An, <u>Zeying Zhu</u>, Ian Miers, Zaoxing Liu
 
 **[VLDB'25] Approximation-First Timeseries Query At Scale**  
 <u>Zeying Zhu</u>, Jonathan Chamberlain, Kenny Wu, David Starobinski, Zaoxing Liu  
-[[Paper](https://www.vldb.org/pvldb/vol18/p2348-zhu.pdf)] [[Code](https://github.com/Froot-NetSys/promsketch)] [[Slides](https://github.com/zzylol/zzylol.github.io/blob/master/files/PromSketch-Presentation-VLDB25.pdf)] [[Demo](https://www.youtube.com/watch?v=skoXfeZZj4I)] 
+[[Paper](https://www.vldb.org/pvldb/vol18/p2348-zhu.pdf)] [[Code](https://github.com/Froot-NetSys/promsketch)] [[Slides](https://github.com/zzylol/zzylol.github.io/blob/master/files/PromSketch-Presentation-VLDB25.pdf)] [[Demo](https://www.youtube.com/watch?v=skoXfeZZj4I)]  
 <img src="/images/promsketch-figure.png" alt="PromSketch" style="max-width: 600px; margin: 10px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.15); border-radius: 4px;">
 <details class="publication-summary">
   <summary>Paper summary</summary>
@@ -73,6 +73,7 @@ compared to standard scaling, with negligible drops in requests.</p>
 <u>Zeying Zhu</u>, Yibo Zhao, Zaoxing Liu  
 <em><font color="green">[Artifacts Available]</font> <font color="red">[Artifacts Functional]</font> <font color="blue">[Artifacts Reusable]</font></em>  
 [[Paper](https://www.usenix.org/system/files/fast24-zhu.pdf)] [[Code](https://github.com/Froot-NetSys/NetMigrate)] [[Slides](https://zzylol.github.io/files/NetMigrate_slides_zhu.pptx)] [[FAST'24 Talk](https://youtu.be/l1fZykAGdM0)] [[P4 Workshop Talk](https://www.youtube.com/watch?v=fNCHO472CTI)]  
+<img src="/images/netmigrate-figure.png" alt="NetMigrate" style="max-width: 600px; margin: 10px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.15); border-radius: 4px;">
 <details class="publication-summary">
   <summary>Paper summary</summary>
   <p>Distributed key-value stores today require frequent key-value
