@@ -96,6 +96,7 @@ migration approaches.</p>
 **[NSDI'23] Arya: Arbitrary Graph Pattern Mining with Decomposition-based Sampling**  
 <u>Zeying Zhu</u>\*, Kan Wu\*, Zaoxing Liu
 [[Paper](https://zzylol.github.io/files/nsdi23-zhu.pdf)] [[Code](https://github.com/Froot-NetSys/Arya)] [[Slides](https://www.usenix.org/system/files/nsdi23_slides_zhu.pdf)] [[Talk](https://www.youtube.com/watch?v=NlXLuhnJZ9w)]  
+<div style="text-align: center;"><img src="/images/arya-figure.png" alt="Arya" style="max-width: 600px; margin: 10px auto; box-shadow: 0 2px 8px rgba(0,0,0,0.15); border-radius: 4px;"></div>
 <details class="publication-summary">
   <summary>Paper summary</summary>
   <p>Graph pattern mining is compute-intensive in processing massive amounts of graph-structured data. This paper
