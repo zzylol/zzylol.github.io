@@ -17,7 +17,7 @@ Prior to my PhD studies, I received my B.E. in Computer Science from Xi'an Jiaot
 News
 ======
 [01/2026] [PromSketch](https://github.com/Froot-NetSys/promsketch?tab=readme-ov-file#promsketch-approximation-first-timeseries-query-at-scale) is presented at Jane Street!  
-[01/2026] Hornored to be selected as a [Future Faculty Fellow](https://eng.umd.edu/academics-students/current-students/future-faculty-program) at the University of Maryland Clark School!  
+[01/2026] Honored to be selected as a [Future Faculty Fellow](https://eng.umd.edu/academics-students/current-students/future-faculty-program) at the University of Maryland Clark School!  
 [09/2025] [PromSketch](https://www.vldb.org/pvldb/vol18/p2348-zhu.pdf) will be presented at VLDB'25!   
 [04/2025] PromSketch is accepted by [VLDB'25](https://vldb.org/2025/)!  
 [03/2025] A paper on Economic Denial of Service is accepted by [SIGMETRICS'25](https://www.sigmetrics.org/sigmetrics2025/)!  
