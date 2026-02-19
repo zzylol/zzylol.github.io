@@ -16,6 +16,7 @@ Prior to my PhD studies, I received my B.E. in Computer Science from Xi'an Jiaot
 
 News
 ======
+[02/2026] Featured in UMD CS department news: [Rethinking Cloud Telemetry for Performance and Scale](https://www.cs.umd.edu/article/2026/02/rethinking-cloud-telemetry-performance-and-scale)!  
 [01/2026] [PromSketch](https://github.com/Froot-NetSys/promsketch?tab=readme-ov-file#promsketch-approximation-first-timeseries-query-at-scale) is presented at Jane Street!  
 [01/2026] Honored to be selected as a [Future Faculty Fellow](https://eng.umd.edu/academics-students/current-students/future-faculty-program) at the University of Maryland Clark School!  
 [09/2025] [PromSketch](https://www.vldb.org/pvldb/vol18/p2348-zhu.pdf) will be presented at VLDB'25!   
