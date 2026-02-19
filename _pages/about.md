@@ -39,7 +39,7 @@ Jaechan An, <u>Zeying Zhu</u>, Ian Miers, Zaoxing Liu
 **[VLDB'25] Approximation-First Timeseries Query At Scale**  
 <u>Zeying Zhu</u>, Jonathan Chamberlain, Kenny Wu, David Starobinski, Zaoxing Liu  
 [[Paper](https://www.vldb.org/pvldb/vol18/p2348-zhu.pdf)] [[Code](https://github.com/Froot-NetSys/promsketch)] [[Slides](https://github.com/zzylol/zzylol.github.io/blob/master/files/PromSketch-Presentation-VLDB25.pdf)] [[Demo](https://www.youtube.com/watch?v=skoXfeZZj4I)]  
-<img src="/images/promsketch-figure.png" alt="PromSketch" style="max-width: 600px; margin: 10px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.15); border-radius: 4px;">
+<div style="text-align: center;"><img src="/images/promsketch-figure.png" alt="PromSketch" style="max-width: 600px; margin: 10px auto; box-shadow: 0 2px 8px rgba(0,0,0,0.15); border-radius: 4px;"></div>
 <details class="publication-summary">
   <summary>Paper summary</summary>
   <p>Timeseries monitoring systems such as Prometheus play a crucial role in gaining observability of the underlying system infrastructure. These systems collect timeseries metrics from various system components and perform monitoring queries over periodic windowbased aggregations (i.e., rule queries). However, despite wide adoption, the operational costs and query latency of rule queries remain high. In this paper, we identify major bottlenecks associated with repeated data scans and query computations concerning window overlaps in rule queries, and present PromSketch, an approximation-first query framework as intermediate caches for monitoring systems. It enables low operational costs and query latency, by combining approximate window-based query frameworks and sketch-based precomputation. PromSketch is implemented as a standalone module that can be integrated into Prometheus and VictoriaMetrics, covering 70% of Prometheus’ aggregation over time queries. Our evaluation shows that PromSketch achieves up to a two-orderof-magnitude reduction in query latency over Prometheus and VictoriaMetrics, while lowering operational dollar costs of query processing by three orders of magnitude compared to Prometheus and by at least 4x compared to VictoriaMetrics with at most 5% average errors across statistics.</p>
@@ -73,7 +73,7 @@ compared to standard scaling, with negligible drops in requests.</p>
 <u>Zeying Zhu</u>, Yibo Zhao, Zaoxing Liu  
 <em><font color="green">[Artifacts Available]</font> <font color="red">[Artifacts Functional]</font> <font color="blue">[Artifacts Reusable]</font></em>  
 [[Paper](https://www.usenix.org/system/files/fast24-zhu.pdf)] [[Code](https://github.com/Froot-NetSys/NetMigrate)] [[Slides](https://zzylol.github.io/files/NetMigrate_slides_zhu.pptx)] [[FAST'24 Talk](https://youtu.be/l1fZykAGdM0)] [[P4 Workshop Talk](https://www.youtube.com/watch?v=fNCHO472CTI)]  
-<img src="/images/netmigrate-figure.png" alt="NetMigrate" style="max-width: 600px; margin: 10px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.15); border-radius: 4px;">
+<div style="text-align: center;"><img src="/images/netmigrate-figure.png" alt="NetMigrate" style="max-width: 400px; margin: 10px auto; box-shadow: 0 2px 8px rgba(0,0,0,0.15); border-radius: 4px;"></div>
 <details class="publication-summary">
   <summary>Paper summary</summary>
   <p>Distributed key-value stores today require frequent key-value
