@@ -1,5 +1,11 @@
 # main links links
 main:
+  - title: "Publications"
+    url: /publications/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Awards"
+    url: /#honors--awards
   - title: "CV"
     url: /files/CV_Zeying_Zhu_2026.pdf
 

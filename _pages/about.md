@@ -14,12 +14,6 @@ I am a Ph.D. candidate at [University of Maryland, College Park](https://umd.edu
 
 Prior to my PhD studies, I received my B.E. in Computer Science from Xi'an Jiaotong University in 2021.
 
-<div style="text-align: center; margin: 20px 0;">
-  <a href="#research" style="margin: 0 15px; font-weight: bold;">Publications</a> |
-  <a href="#teaching" style="margin: 0 15px; font-weight: bold;">Teaching</a> |
-  <a href="#honors--awards" style="margin: 0 15px; font-weight: bold;">Awards</a>
-</div>
-
 News
 ======
 [02/2026] Featured in UMD CS department news: [Rethinking Cloud Telemetry for Performance and Scale](https://www.cs.umd.edu/article/2026/02/rethinking-cloud-telemetry-performance-and-scale)!  
