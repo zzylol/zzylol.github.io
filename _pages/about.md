@@ -25,7 +25,7 @@ News
 [10/2024] NetMigrate is presented at [P4 Workshop](https://p4.org/p4_events/2023-p4-workshop-postevent/)!  
 [12/2023] NetMigrate is accepted by [FAST'24](https://www.usenix.org/conference/fast24/technical-sessions)!  
 
-Research
+Publications
 ======
 
 **[HotNets'25] Towards Verifiable Network Telemetry without Special Purpose Hardware**  
