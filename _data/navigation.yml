@@ -4,6 +4,8 @@ main:
     url: /#research
   - title: "Teaching"
     url: /#teaching
+  - title: "Services"
+    url: /#services
   - title: "Awards"
     url: /#honors--awards
   - title: "CV"

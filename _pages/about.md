@@ -125,6 +125,12 @@ Boston University, [Spring 2023](https://people.bu.edu/herbordt/teaching.htm)
 Teaching Assistant, EC528 Cloud Computing  
 Boston University, [Fall 2022](https://zaoxing.github.io/teaching/2022-fall-cloud)  
 
+Services
+======
+Web Chair: [HotNets'25](https://conferences.sigcomm.org/hotnets/2025/index.html)  
+Journal reviewer: ACM Transactions on Database Systems, IEEE/ACM Transactions on Networking, Computer Networks  
+Conference reviewer: INFOCOM'2023  
+
 
 
 
@@ -143,13 +149,7 @@ Honors & Awards
 
 
 
-<!-- Services
-======
-Web Chair: [HotNets'25](https://conferences.sigcomm.org/hotnets/2025/index.html)  
-Journal reviewer: ACM Transactions on Database Systems, IEEE/ACM Transactions on Networking, Computer Networks  
-Conference reviewer: INFOCOM'2023  
 
- -->
 
 <!-- 
 Experience
