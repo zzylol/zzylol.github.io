@@ -30,7 +30,7 @@ Publications
 ======
 
 **[SIGCOMM'26] Zero-Knowledge Cloud Analytics**
-<u>Zeying Zhu</u>, Clarence Lam, Alexander Frolov, Ian Miers, Zaoxing Liu
+<u>Zeying Zhu</u>, Clarence Lam, Alexander Frolov, Ian Miers, Zaoxing Liu  
 *To appear in [SIGCOMM'26](https://conferences.sigcomm.org/sigcomm/2026/)*
 
 **[HotNets'25] Towards Verifiable Network Telemetry without Special Purpose Hardware**  
