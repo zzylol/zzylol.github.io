@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at [University of Maryland, College Park](https://umd.edu/), advised by [Prof. Alan (Zaoxing) Liu](https://zaoxing.github.io/). My research focuses on making cloud telemetry systems low-latency and cost-efficient ([PromSketch](https://www.vldb.org/pvldb/vol18/p2348-zhu.pdf)), highly scalable ([NetMigrate](https://www.usenix.org/system/files/fast24-zhu.pdf)), and trustworthy.
+I am a Ph.D. candidate at [University of Maryland, College Park](https://umd.edu/), advised by [Prof. Alan (Zaoxing) Liu](https://zaoxing.github.io/). My research focuses on making cloud telemetry systems low-latency and cost-efficient ([PromSketch](https://www.vldb.org/pvldb/vol18/p2348-zhu.pdf)), highly scalable ([NetMigrate](https://www.usenix.org/system/files/fast24-zhu.pdf)), and trustworthy (zk-Analytics).
 
 <!-- My research interests are broadly in systems and networking, with a focus on bridging the gap between approximate algorithms (e.g., sampling, sketches) and practical computing systems, aiming to enable low latency, high scalability, low operational costs, and trustworthiness of cloud telemetry systems.  -->
 
@@ -16,17 +16,27 @@ Prior to my Ph.D. studies, I received my B.E. in Computer Science from Xi'an Jia
 
 News
 ======
+[05/2026] zk-Analytics to appear in [SIGCOMM'26](https://conferences.sigcomm.org/sigcomm/2026/)!  
 [02/2026] Featured in UMD CS department news: [Rethinking Cloud Telemetry for Performance and Scale](https://www.cs.umd.edu/article/2026/02/rethinking-cloud-telemetry-performance-and-scale)!  
 [01/2026] [PromSketch](https://github.com/Froot-NetSys/promsketch?tab=readme-ov-file#promsketch-approximation-first-timeseries-query-at-scale) is presented at Jane Street!  
 [01/2026] Honored to be selected as a [Future Faculty Fellow](https://eng.umd.edu/academics-students/current-students/future-faculty-program) at the University of Maryland Clark School!  
-[09/2025] [PromSketch](https://www.vldb.org/pvldb/vol18/p2348-zhu.pdf) will be presented at VLDB'25!   
-[04/2025] PromSketch is accepted by [VLDB'25](https://vldb.org/2025/)!  
-[03/2025] A paper on Economic Denial of Service is accepted by [SIGMETRICS'25](https://www.sigmetrics.org/sigmetrics2025/)!  
-[10/2024] NetMigrate is presented at [P4 Workshop](https://p4.org/event/2024-p4-workshop-postevent/)!  
-[12/2023] NetMigrate is accepted by [FAST'24](https://www.usenix.org/conference/fast24/technical-sessions)!  
+[09/2025] [PromSketch](https://www.vldb.org/pvldb/vol18/p2348-zhu.pdf) will be presented at VLDB'25!
+<!-- <details>
+  <summary>Earlier News</summary>
+  <p> -->
+  [04/2025] PromSketch is accepted by <a href="https://vldb.org/2025/">VLDB'25</a>!<br>
+  [03/2025] A paper on Economic Denial of Service is accepted by <a href="https://www.sigmetrics.org/sigmetrics2025/">SIGMETRICS'25</a>!<br>
+  [10/2024] NetMigrate is presented at <a href="https://p4.org/event/2024-p4-workshop-postevent/">P4 Workshop</a>!<br>
+  [12/2023] NetMigrate is accepted by <a href="https://www.usenix.org/conference/fast24/technical-sessions">FAST'24</a>!
+  <!-- </p>
+</details>   -->
 
 Publications
 ======
+
+**[SIGCOMM'26] Zero-Knowledge Cloud Analytics**
+<u>Zeying Zhu</u>, Clarence Lam, Alexander Frolov, Ian Miers, Zaoxing Liu
+*To appear in [SIGCOMM'26](https://conferences.sigcomm.org/sigcomm/2026/)*
 
 **[HotNets'25] Towards Verifiable Network Telemetry without Special Purpose Hardware**  
 Jaechan An, <u>Zeying Zhu</u>, Ian Miers, Zaoxing Liu  
