@@ -20,16 +20,11 @@ News
 [02/2026] Featured in UMD CS department news: [Rethinking Cloud Telemetry for Performance and Scale](https://www.cs.umd.edu/article/2026/02/rethinking-cloud-telemetry-performance-and-scale)!  
 [01/2026] [PromSketch](https://github.com/Froot-NetSys/promsketch?tab=readme-ov-file#promsketch-approximation-first-timeseries-query-at-scale) is presented at Jane Street!  
 [01/2026] Honored to be selected as a [Future Faculty Fellow](https://eng.umd.edu/academics-students/current-students/future-faculty-program) at the University of Maryland Clark School!  
-[09/2025] [PromSketch](https://www.vldb.org/pvldb/vol18/p2348-zhu.pdf) will be presented at VLDB'25!
-<!-- <details>
-  <summary>Earlier News</summary>
-  <p> -->
-  [04/2025] PromSketch is accepted by <a href="https://vldb.org/2025/">VLDB'25</a>!<br>
-  [03/2025] A paper on Economic Denial of Service is accepted by <a href="https://www.sigmetrics.org/sigmetrics2025/">SIGMETRICS'25</a>!<br>
-  [10/2024] NetMigrate is presented at <a href="https://p4.org/event/2024-p4-workshop-postevent/">P4 Workshop</a>!<br>
-  [12/2023] NetMigrate is accepted by <a href="https://www.usenix.org/conference/fast24/technical-sessions">FAST'24</a>!
-  <!-- </p>
-</details>   -->
+[09/2025] [PromSketch](https://www.vldb.org/pvldb/vol18/p2348-zhu.pdf) will be presented at VLDB'25!  
+[04/2025] PromSketch is accepted by <a href="https://vldb.org/2025/">VLDB'25</a>!<br>
+[03/2025] A paper on Economic Denial of Service is accepted by <a href="https://www.sigmetrics.org/sigmetrics2025/">SIGMETRICS'25</a>!<br>
+[10/2024] NetMigrate is presented at <a href="https://p4.org/event/2024-p4-workshop-postevent/">P4 Workshop</a>!<br>
+[12/2023] NetMigrate is accepted by <a href="https://www.usenix.org/conference/fast24/technical-sessions">FAST'24</a>!  
 
 Publications
 ======
