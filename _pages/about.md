@@ -29,7 +29,7 @@ News
 Publications
 ======
 
-**[SIGCOMM'26] Zero-Knowledge Cloud Analytics**
+**[SIGCOMM'26] Zero-Knowledge Cloud Analytics**  
 <u>Zeying Zhu</u>, Clarence Lam, Alexander Frolov, Ian Miers, Zaoxing Liu  
 *To appear in [SIGCOMM'26](https://conferences.sigcomm.org/sigcomm/2026/)*
 
