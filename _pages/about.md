@@ -33,6 +33,12 @@ Publications
 <u>Zeying Zhu</u>, Clarence Lam, Alexander Frolov, Ian Miers, Zaoxing Liu  
 *To appear in [SIGCOMM'26](https://conferences.sigcomm.org/sigcomm/2026/)*
 
+
+**[ICSME'26] Taming Revocable Spot VM Instances with Diffused**
+Zhao Zhang, <u>Zeying Zhu</u>, Micah Sherr, Benjamin Ujcich, Wenchao Zhou  
+*To appear in [ICSME'26](https://conf.researchr.org/home/icsme-2026)*
+
+
 **[HotNets'25] Towards Verifiable Network Telemetry without Special Purpose Hardware**  
 Jaechan An, <u>Zeying Zhu</u>, Ian Miers, Zaoxing Liu  
 [[Paper](https://dl.acm.org/doi/10.1145/3772356.3772392)]
