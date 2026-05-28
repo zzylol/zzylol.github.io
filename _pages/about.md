@@ -34,7 +34,7 @@ Publications
 *To appear in [SIGCOMM'26](https://conferences.sigcomm.org/sigcomm/2026/)*
 
 
-**[ICSME'26] Taming Revocable Spot VM Instances with Diffused**
+**[ICSME'26] Taming Revocable Spot VM Instances with Diffused**  
 Zhao Zhang, <u>Zeying Zhu</u>, Micah Sherr, Benjamin Ujcich, Wenchao Zhou  
 *To appear in [ICSME'26](https://conf.researchr.org/home/icsme-2026)*
 
