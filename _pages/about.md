@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at [University of Maryland, College Park](https://umd.edu/), advised by [Prof. Alan (Zaoxing) Liu](https://zaoxing.github.io/). My research focuses on making cloud telemetry systems low-latency and cost-efficient ([PromSketch](https://www.vldb.org/pvldb/vol18/p2348-zhu.pdf)), highly scalable ([NetMigrate](https://www.usenix.org/system/files/fast24-zhu.pdf)), and trustworthy (zk-Analytics).
+I am a Ph.D. candidate at [University of Maryland, College Park](https://umd.edu/), advised by [Prof. Alan (Zaoxing) Liu](https://zaoxing.github.io/). My research focuses on making cloud telemetry systems low-latency and cost-efficient ([PromSketch](https://www.vldb.org/pvldb/vol18/p2348-zhu.pdf)), highly scalable ([NetMigrate](https://www.usenix.org/system/files/fast24-zhu.pdf)), and trustworthy (zk-Analytics). I am one of the leads and core architects of [ProjectASAP](https://projectasap.github.io/), a grand vision project to democratize the benefits of approximate summaries for cloud observability and big data analytics workloads.  
 
 <!-- My research interests are broadly in systems and networking, with a focus on bridging the gap between approximate algorithms (e.g., sampling, sketches) and practical computing systems, aiming to enable low latency, high scalability, low operational costs, and trustworthiness of cloud telemetry systems.  -->
 
