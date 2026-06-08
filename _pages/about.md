@@ -16,6 +16,7 @@ Prior to my Ph.D. studies, I received my B.E. in Computer Science from Xi'an Jia
 
 News
 ======
+[05/2026] Diffused to appear in [ICSME'26](https://conf.researchr.org/home/icsme-2026), after years of the journey!  
 [05/2026] zk-Analytics to appear in [SIGCOMM'26](https://conferences.sigcomm.org/sigcomm/2026/)!  
 [02/2026] Featured in UMD CS department news: [Rethinking Cloud Telemetry for Performance and Scale](https://www.cs.umd.edu/article/2026/02/rethinking-cloud-telemetry-performance-and-scale)!  
 [01/2026] [PromSketch](https://github.com/Froot-NetSys/promsketch?tab=readme-ov-file#promsketch-approximation-first-timeseries-query-at-scale) is presented at Jane Street!  
