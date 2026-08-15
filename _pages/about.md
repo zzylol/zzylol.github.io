@@ -32,9 +32,11 @@ Publications
 
 **[SIGCOMM'26] Zero-Knowledge Cloud Analytics**  
 <u>Zeying Zhu</u>, Clarence Lam, Alexander Frolov, Ian Miers, Zaoxing Liu  
-[[Paper](https://dl.acm.org/doi/10.1145/3789240.3829157)]
-*To appear in [SIGCOMM'26](https://conferences.sigcomm.org/sigcomm/2026/)*
-
+[[Paper](https://dl.acm.org/doi/10.1145/3789240.3829157)] [[Code](https://github.com/Froot-NetSys/zk-Analytics)]  
+<details class="publication-summary">
+  <summary>Paper summary</summary>
+  <p>We present zk-Analytics, a distributed cloud analytics system that enables publicly verifiable analytics without revealing raw logs or relying on trusted hardware in analytics providers' infrastructure. Today's cloud analytics are largely self-assertive: providers collect telemetry, perform aggregation, and report results, leaving external parties unable to verify correctness without access to sensitive data or trusted execution environments. zk-Analytics addresses this gap by augmenting analytics pipelines with lightweight append-only log commitments and verifiable aggregation and query execution using zero-knowledge proofs. The system cleanly separates online log commitment from offline, distributed batch aggregation and query verification, enabling scalability while keeping online overhead low. We implement zk-Analytics using a zkVM-based execution environment and evaluate it on real-world and synthetic workloads, demonstrating that verifiable, privacy-preserving cloud analytics is feasible for real-world cloud workloads. zk-Analytics is open-sourced at https://github.com/Froot-NetSys/zk-Analytics.</p>
+</details>  
 
 **[ICSME'26] Taming Revocable Spot VM Instances with Diffused**  
 Zhao Zhang, <u>Zeying Zhu</u>, Micah Sherr, Benjamin Ujcich, Wenchao Zhou  
