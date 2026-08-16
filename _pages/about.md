@@ -16,6 +16,7 @@ Prior to my Ph.D. studies, I received my B.E. in Computer Science from Xi'an Jia
 
 News
 ======
+[08/2026] Check out our latest whitepaper [ASAP manifesto](https://arxiv.org/abs/2608.12735)!  
 [05/2026] Diffused to appear in [ICSME'26](https://conf.researchr.org/home/icsme-2026), after years of the journey!  
 [05/2026] zk-Analytics to appear in [SIGCOMM'26](https://conferences.sigcomm.org/sigcomm/2026/)!  
 [02/2026] Featured in UMD CS department news: [Rethinking Cloud Telemetry for Performance and Scale](https://www.cs.umd.edu/article/2026/02/rethinking-cloud-telemetry-performance-and-scale)!  
@@ -29,6 +30,14 @@ News
 
 Publications
 ======
+
+### Preprints
+
+**ASAP: Reimagining the Data Lifecycle using Application Semantic-Aware Processing**  
+Milind Srivastava, <u>Zeying Zhu</u>, Yajie Zhou, Yancheng Yuan, Fenghao Dong, Peilin Xin, Zaoxing Liu, Vyas Sekar  
+[[Paper](https://arxiv.org/abs/2608.12735)]
+
+### Conference & Workshop Papers
 
 **[SIGCOMM'26] Zero-Knowledge Cloud Analytics**  
 <u>Zeying Zhu</u>, Clarence Lam, Alexander Frolov, Ian Miers, Zaoxing Liu  
