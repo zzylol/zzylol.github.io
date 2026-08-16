@@ -31,13 +31,13 @@ News
 Publications
 ======
 
-### Preprints
+## Preprints
 
 **ASAP: Reimagining the Data Lifecycle using Application Semantic-Aware Processing**  
 Milind Srivastava, <u>Zeying Zhu</u>, Yajie Zhou, Yancheng Yuan, Fenghao Dong, Peilin Xin, Zaoxing Liu, Vyas Sekar  
 [[Paper](https://arxiv.org/abs/2608.12735)]
 
-### Conference & Workshop Papers
+## Conference & Workshop Papers
 
 **[SIGCOMM'26] Zero-Knowledge Cloud Analytics**  
 <u>Zeying Zhu</u>, Clarence Lam, Alexander Frolov, Ian Miers, Zaoxing Liu  
