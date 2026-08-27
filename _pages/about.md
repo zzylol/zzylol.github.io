@@ -16,7 +16,7 @@ Prior to my Ph.D. studies, I received my B.E. in Computer Science from Xi'an Jia
 
 News
 ======
-[08/2026] [zk-Analytics](https://dl.acm.org/doi/10.1145/3789240.3829157) received Best Poster Runners-Up at the N2Women Workshop at ACM SIGCOMM 2026!  
+[08/2026] [zk-Analytics](https://dl.acm.org/doi/10.1145/3789240.3829157) received Best Poster Runner-Up at the N2Women Workshop at ACM SIGCOMM 2026!  
 [08/2026] Check out our latest whitepaper [ASAP manifesto](https://arxiv.org/abs/2608.12735)!  
 [05/2026] Diffused to appear in [ICSME'26](https://conf.researchr.org/home/icsme-2026), after years of the journey!  
 [05/2026] zk-Analytics to appear in [SIGCOMM'26](https://conferences.sigcomm.org/sigcomm/2026/)!  
@@ -42,7 +42,7 @@ Milind Srivastava, <u>Zeying Zhu</u>, Yajie Zhou, Yancheng Yuan, Fenghao Dong, P
 
 **[SIGCOMM'26] Zero-Knowledge Cloud Analytics**
 <u>Zeying Zhu</u>, Clarence Lam, Alexander Frolov, Ian Miers, Zaoxing Liu  
-<em><font color="SlateBlue">Best Poster Runners-Up at N2Women Workshop</font></em>  
+<em><font color="SlateBlue">Best Poster Runner-Up at N2Women Workshop</font></em>  
 [[Paper](https://dl.acm.org/doi/10.1145/3789240.3829157)] [[Code](https://github.com/Froot-NetSys/zk-Analytics)] [[Video](https://www.youtube.com/watch?v=pbVymYagDsI)]
 <details class="publication-summary">
   <summary>Paper summary</summary>
@@ -167,7 +167,7 @@ Conference reviewer: INFOCOM'2023
 
 Honors & Awards
 ======
-<div style="text-align:left;">Best Poster Runners-Up, N2Women Workshop at ACM SIGCOMM<div style="float:right;">2026</div></div>
+<div style="text-align:left;">Best Poster Runner-Up, N2Women Workshop at ACM SIGCOMM<div style="float:right;">2026</div></div>
 <div style="text-align:left;">Future Faculty Fellow, Clark School of Engineering, University of Maryland<div style="float:right;">2026</div></div>
 <div style="text-align:left;">Hariri Institute's Graduate Student Fellowship, Boston University<div style="float:right;">2023</div></div>
 <div style="text-align:left;">Distinguished Computer Engineering Fellowship, Boston University<div style="float:right;">2021</div></div>
