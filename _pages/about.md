@@ -40,7 +40,7 @@ Milind Srivastava, <u>Zeying Zhu</u>, Yajie Zhou, Yancheng Yuan, Fenghao Dong, P
 
 ## Conference & Workshop Papers
 
-**[SIGCOMM'26] Zero-Knowledge Cloud Analytics**
+**[SIGCOMM'26] Zero-Knowledge Cloud Analytics**  
 <u>Zeying Zhu</u>, Clarence Lam, Alexander Frolov, Ian Miers, Zaoxing Liu  
 <em><font color="SlateBlue">Best Poster Runner-Up at N2Women Workshop</font></em>  
 [[Paper](https://dl.acm.org/doi/10.1145/3789240.3829157)] [[Code](https://github.com/Froot-NetSys/zk-Analytics)] [[Video](https://www.youtube.com/watch?v=pbVymYagDsI)]
